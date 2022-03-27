@@ -1,4 +1,4 @@
-# Graph Regressiom
+# Graph Regression
 
 [Some code is taken from here (Author: Junwen Bai)](https://github.com/JunwenBai/correlation-gnn)</br>
 
